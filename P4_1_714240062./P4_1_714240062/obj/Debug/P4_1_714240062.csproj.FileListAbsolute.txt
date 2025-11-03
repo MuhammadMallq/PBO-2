@@ -1,0 +1,16 @@
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\obj\Debug\P4_1_714240062.csproj.AssemblyReference.cache
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\obj\Debug\P4_1_714240062.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\bin\Debug\P4_1_714240062.exe.config
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\bin\Debug\P4_1_714240062.exe
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\bin\Debug\P4_1_714240062.pdb
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\obj\Debug\P4_1_714240062.exe
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\obj\Debug\P4_1_714240062.pdb
+C:\Users\LABKOM-VOKASI\source\repos\P4_1_714240062\obj\Debug\P4_1_714240062.exe.config
+E:\714240062 P4\P4_1_714240062\bin\Debug\P4_1_714240062.exe.config
+E:\714240062 P4\P4_1_714240062\bin\Debug\P4_1_714240062.exe
+E:\714240062 P4\P4_1_714240062\bin\Debug\P4_1_714240062.pdb
+E:\714240062 P4\P4_1_714240062\obj\Debug\P4_1_714240062.csproj.AssemblyReference.cache
+E:\714240062 P4\P4_1_714240062\obj\Debug\P4_1_714240062.exe.config
+E:\714240062 P4\P4_1_714240062\obj\Debug\P4_1_714240062.csproj.CoreCompileInputs.cache
+E:\714240062 P4\P4_1_714240062\obj\Debug\P4_1_714240062.exe
+E:\714240062 P4\P4_1_714240062\obj\Debug\P4_1_714240062.pdb

@@ -1,0 +1,15 @@
+Bagian I
+
+14. Field atau properti myType belum dideklarasikan di dalam class Product_714240062, sehingga baris kode myProduct.myType tidak dikenali oleh program. Solusinya, buat dulu field myType di class tersebut.
+
+19. Pada class ProductTest, constructor hanya membutuhkan parameter title saja. Karena itu, properti myType tidak perlu diisi ketika membuat objek baru.
+
+24. Output yang tampil di layar hanya berupa kata "DVD", karena di dalam method atau class yang menampilkan hasil, perintah print atau Console.WriteLine hanya memanggil satu properti saja tanpa menampilkan atribut lain dari objek tersebut.
+
+Bagian II
+
+8. Jenis dan judul buku tidak muncul karena nilai untuk properti tersebut belum diberikan di class induk saat objek dibuat. Supaya muncul di output, perlu menggunakan pewarisan (inheritance) agar class yang diwariskan properti asal, lalu mengisinya melalui constructor.
+
+12. Hal ini terjadi karena sudah dilakukan pemanggilan ke class asal menggunakan base(type, title) dalam constructor.
+
+19. Pada class DVD, nilai tipe (“DVD”) sudah langsung ditentukan di dalam constructor, sedangkan untuk class Book, nilai tipe dan atribut lainnya harus dikirim melalui parameter saat pembuatan objek.
