@@ -1,0 +1,8 @@
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\bin\Debug\P4_2_714240062.exe.config
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\bin\Debug\P4_2_714240062.exe
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\bin\Debug\P4_2_714240062.pdb
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\obj\Debug\P4_2_714240062.csproj.AssemblyReference.cache
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\obj\Debug\P4_2_714240062.csproj.CoreCompileInputs.cache
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\obj\Debug\P4_2_714240062.exe
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\obj\Debug\P4_2_714240062.pdb
+C:\Users\ESES\OneDrive\Documents\tugas\P4_2_714240062\P4_2_714240062\P4_2_714240062\obj\Debug\P4_2_714240062.exe.config
