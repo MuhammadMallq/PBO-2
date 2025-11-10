@@ -1,0 +1,1 @@
+42. mengapa eror code outputText,karena variabel tersebut tidak pernah dideklarasikan. jadi untuk memperbaiki code tersebut supaya tidak merah atau eror yaitu dengan mendeklarasikan outputText sebagai string

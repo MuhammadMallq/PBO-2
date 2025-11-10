@@ -1,0 +1,10 @@
+16. jika tidak diceklis pada bagian tersebut akan mencul belum diperbaiki karena pada code tersebut terdapat else
+		if (cb_Ya.Checked == true)
+ 		{
+     			status = " Ya, sudah diperbaiki";
+ 		}
+
+		 else
+ 		{
+     		status = " Tidak, belum diperbaiki";
+ 		}
