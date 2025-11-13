@@ -1,0 +1,11 @@
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\bin\Debug\P5_4_714240062.exe.config
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\bin\Debug\P5_4_714240062.exe
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\bin\Debug\P5_4_714240062.pdb
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.csproj.AssemblyReference.cache
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.Form1.resources
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.Properties.Resources.resources
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.csproj.GenerateResource.cache
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.csproj.CoreCompileInputs.cache
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.exe
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.pdb
+C:\Users\ESES\OneDrive\Documents\tugas\P5_4_714240062\P5_4_714240062\obj\Debug\P5_4_714240062.exe.config
