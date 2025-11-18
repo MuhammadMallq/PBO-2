@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESES\\OneDrive\\Documents\\tugas\\P6_1_714240062\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5C099C-F847-4DBD-800E-0D3222A1EE4B}|P6_1_714240062\\P6_1_714240062.csproj|c:\\users\\eses\\onedrive\\documents\\tugas\\p6_1_714240062\\p6_1_714240062\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D5C099C-F847-4DBD-800E-0D3222A1EE4B}|P6_1_714240062\\P6_1_714240062.csproj|solutionrelative:p6_1_714240062\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5C099C-F847-4DBD-800E-0D3222A1EE4B}|P6_1_714240062\\P6_1_714240062.csproj|c:\\users\\eses\\onedrive\\documents\\tugas\\p6_1_714240062\\p6_1_714240062\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5C099C-F847-4DBD-800E-0D3222A1EE4B}|P6_1_714240062\\P6_1_714240062.csproj|solutionrelative:p6_1_714240062\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ESES\\OneDrive\\Documents\\tugas\\P6_1_714240062\\P6_1_714240062\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_1_714240062\\Form1.cs",
+              "ToolTip": "C:\\Users\\ESES\\OneDrive\\Documents\\tugas\\P6_1_714240062\\P6_1_714240062\\Form1.cs",
+              "RelativeToolTip": "P6_1_714240062\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:34:15.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ESES\\OneDrive\\Documents\\tugas\\P6_1_714240062\\P6_1_714240062\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_1_714240062\\Form1.cs",
+              "ToolTip": "C:\\Users\\ESES\\OneDrive\\Documents\\tugas\\P6_1_714240062\\P6_1_714240062\\Form1.cs [Design]",
+              "RelativeToolTip": "P6_1_714240062\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:27:42.845Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
